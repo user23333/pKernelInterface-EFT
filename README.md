@@ -1,10 +1,7 @@
 # pKernelInterface-EFT
 
-An (External) Escape From Tarkov Reversal project.
+An (External) Escape From Tarkov Reversal project. (One of my older projects which i updated a little so people could use it if they needed)
 
 The use of OOP techniques used in this project aren't my best, but it's something.
 
-Excuse the overuse of threads, junk code, etc.
-
-
-https://www.unknowncheats.me/forum/escape-from-tarkov/491220-eft-external-source-flyhack-aimbot-esp-etc.html#post3379131
+Excuse the overuse of threads, junk code, performance, etc.
